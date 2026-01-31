@@ -13,14 +13,13 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: MM
-email:
+title: Bhuwan Joshi
+email: joshibhu@msu.edu
 description: >- # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+ PhD Student in Forestry, Ecology, Evolution and Behavior (EEB) at Michigan State University. Currently, working as a Graduate Research Assistant in the Forest Genetics Lab at MSU.
 twitter_username: username
-github_username: username
+github_username: @BhuwancodesBio
+LinkedIn_username: https://www.linkedin.com/in/joshi5/
 minimal_mistakes_skin: default
 search: true
 
